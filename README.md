@@ -31,6 +31,13 @@ Internet → ALB → Private EC2
 ### Target Group
 ![Target Group](screenshots/Screenshot-TargetGroup.png)
 
+### EC2 Instances
+![EC2](screenshots/Screenshot-EC2.png)
+
+### Security Groups Configuration
+![Security Groups](screenshots/Screenshot-SecurityGroups.png)
+
+
 ## Technologies Used
 - AWS VPC
 - EC2
